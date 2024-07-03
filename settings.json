@@ -1,0 +1,9 @@
+{
+    "character_name": "",
+    "listener_name": "",
+    "remember_rate": 0.3,
+    "forgetting_rate": 0.02,
+    "retrieve_number_rate": 10,
+    "embedding_mode": "local",
+    "summary_mode": "gpt"
+}
